@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Adriano Yudi R. Nishimoto<br><br>🌱 I’m currently learning DataEngineer and SoftwareEngineer</h2>
+<h2 align="left">Hi 👋, I'm Adriano Yudi R. Nishimoto<br><br>🌱 I’m currently learning SoftwareEngineer</h2>
 
 ###
 
