@@ -1,6 +1,6 @@
 <img src='https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120§ion=header' width='100%'/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=5100&pause=1000&color=006CBB¢er=true&vCenter=true&width=435&lines=Ol%C3%A1!+Sou+Adriano+Nishimoto;Desenvolvedor+Backend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=5100&pause=1000&color=00A8F8&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Sou+Adriano+Nishimoto;Desenvolvedor+BackEnd)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdriyNishimoto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
