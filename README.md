@@ -1,42 +1,45 @@
-<img src='https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header' width='100%'/>
+<img src='https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120§ion=header' width='100%'/>
 
-![Apresentação](https://readme-typing-svg.demolab.com/?lines=Olá!+Sou+Jennifer,+Desenvolvedor+Backend.;center=true&vCenter=true&size=45&width=1000&color=4B0082&font='Open Sans')
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=5100&pause=1000&color=006CBB¢er=true&vCenter=true&width=435&lines=Ol%C3%A1!+Sou+Adriano+Nishimoto;Desenvolvedor+Backend)](https://git.io/typing-svg)
 
-<div align='center'>
-
-![Jennifer GitHub stats](https://github-readme-stats.vercel.app/api?username=JenniferDaleffi&show_icons=true&theme=dark)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdriyNishimoto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdriyNishimoto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 ## Sobre mim
 
-Desenvolvedor Backend apaixonado por tecnologia, com foco em C#/.NET, APIs, SQL & NoSQL e Cloud. Atualmente, estudante de Análise e Desenvolvimento de Sistemas na FIAP e formado em Mecânica pelo IFSP. Proativo, comunicativo e líder em projetos acadêmicos, sempre buscando inovação e soluções técnicas robustas.
+Sou Adriano Nishimoto, um Desenvolvedor Backend apaixonado por criar soluções robustas e escaláveis. Tenho expertise em C#/.NET, Python e MySQL, com foco em desenvolver APIs eficientes, gerenciar bancos de dados e otimizar a performance de sistemas. Amo tecnologia, inovação e transformar ideias em código funcional.
 
 <div align="center">
 
-[![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/jenniferdaleffi/)
-[![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:jenniferdaleffii@gmail.com)
-[![Outlook](https://img.icons8.com/?size=50&id=117562&format=png&color=000000)](mailto:jenniferdaleffi@outlook.com)
+<a href="https://www.linkedin.com/in/adriano-nishimoto/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+</a>
+<a href="https://www.instagram.com/nishimoto_adriano/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+</a>
 
 </div>
 
 ## 💻 Áreas
 
-### Back-end C#/.NET, APIs, SQL & NoSQL, Cloud
+### Backend Development: APIs, Banco de Dados, Arquitetura de Sistemas
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👩‍💻 Minhas Competências
+## 👨‍💻 Minhas Competências
 
 <div align="center">
 
-| Área              | Habilidades                                                                                   |
-|-------------------|-----------------------------------------------------------------------------------------------|
-| **Idiomas**       | Português, Inglês, Espanhol                                                                   |
-| **Office**        | Word, Excel, Power BI, PowerPoint, Power Apps, Power Automate                                 |
-| **Banco de Dados**| SQL Server, Oracle, PostgreSQL, MongoDB                                                       |
-| **Metodologias**  | SCRUM, Kanban, Agile                                                                          |
-| **Cloud**         | Azure, AWS                                                                                    |
+| Área              | Habilidades                          |
+|-------------------|--------------------------------------|
+| **Backend**       | C#, .NET, APIs RESTful, Python       |
+| **Banco de Dados**| MySQL, Otimização de Consultas       |
+| **Arquitetura**   | Design de Sistemas, Microsserviços   |
+| **Outras**        | Git, Integração de Sistemas          |
 
 </div>
 
@@ -46,12 +49,12 @@ Desenvolvedor Backend apaixonado por tecnologia, com foco em C#/.NET, APIs, SQL 
 
 <div align="center">
 
-[![C#](https://img.icons8.com/?size=50&id=55214&format=png&color=000000)]()
-[![.NET](https://img.icons8.com/?size=50&id=AZOZN2uxqcoV&format=png&color=000000)]()
-[![SQL Server](https://img.icons8.com/?size=50&id=114439&format=png&color=000000)]()
-[![MongoDB](https://img.icons8.com/?size=50&id=74402&format=png&color=000000)]()
-[![Azure](https://img.icons8.com/?size=50&id=9B8wyeOhw4Z6&format=png&color=000000)]()
-[![AWS](https://img.icons8.com/?size=50&id=33039&format=png&color=000000)]()
+<img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
+<img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />
+<img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+<img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
 
 </div>
 
@@ -61,20 +64,11 @@ Desenvolvedor Backend apaixonado por tecnologia, com foco em C#/.NET, APIs, SQL 
 
 <div align="center">
 
-[![VSCode](https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000)]()
-[![Visual Studio](https://img.icons8.com/?size=50&id=80537&format=png&color=000000)]()
-[![Azure DevOps](https://img.icons8.com/?size=50&id=114439&format=png&color=000000)]()
-[![Git](https://img.icons8.com/?size=50&id=20906&format=png&color=000000)]()
-[![Docker](https://img.icons8.com/?size=50&id=22813&format=png&color=000000)]()
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+<img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" />
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferDaleffi&layout=compact&theme=dark)
-
-![Snake animation](https://github.com/JenniferDaleffi/JenniferDaleffi/blob/output/github-contribution-grid-snake.svg)
-
-</div>
