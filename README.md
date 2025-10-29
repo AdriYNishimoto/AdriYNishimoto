@@ -54,7 +54,6 @@ Sou Adriano Nishimoto, um Desenvolvedor Backend apaixonado por criar soluções 
 <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
 <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-<img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
 
 </div>
 
