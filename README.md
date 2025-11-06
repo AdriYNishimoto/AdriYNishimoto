@@ -49,6 +49,8 @@ Sou Adriano Nishimoto, um Desenvolvedor Backend apaixonado por criar soluções 
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
 <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
 <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />
 <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
