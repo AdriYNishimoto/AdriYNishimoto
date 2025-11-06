@@ -1,6 +1,6 @@
 <img src='https://capsule-render.vercel.app/api?type=waving&color=0CC3F8FF&height=120§ion=header' width='100%'/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=5100&pause=1000&color=00A8F8&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Sou+Adriano+Nishimoto;Desenvolvedor+BackEnd)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=5100&pause=1000&color=00A8F8&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Sou+Adriano+Nishimoto;Desenvolvedor+FullStack)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdriyNishimoto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -11,7 +11,7 @@
 
 ## Sobre mim
 
-Sou Adriano Nishimoto, um Desenvolvedor Backend apaixonado por criar soluções robustas e escaláveis. Tenho expertise em C#/.NET, Python e MySQL, com foco em desenvolver APIs eficientes, gerenciar bancos de dados e otimizar a performance de sistemas. Amo tecnologia, inovação e transformar ideias em código funcional.
+Sou Adriano Nishimoto, um Desenvolvedor FullStack apaixonado por criar soluções robustas e escaláveis. Tenho expertise em Javascript, React, C#/.NET, Python e MySQL, com foco em desenvolver APIs eficientes, gerenciar bancos de dados e otimizar a performance de sistemas. Amo tecnologia, inovação e transformar ideias em código funcional.
 
 <div align="center">
 
@@ -36,6 +36,7 @@ Sou Adriano Nishimoto, um Desenvolvedor Backend apaixonado por criar soluções 
 
 | Área              | Habilidades                          |
 |-------------------|--------------------------------------|
+| **Frontend**       | Javascript, React      |
 | **Backend**       | C#, .NET, APIs RESTful, Python       |
 | **Banco de Dados**| MySQL, Otimização de Consultas       |
 | **Arquitetura**   | Design de Sistemas, Microsserviços   |
