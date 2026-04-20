@@ -73,7 +73,6 @@ Tenho forte interesse em tecnologia, inovação e em transformar problemas compl
 <img src="https://skillicons.dev/icons?i=visualstudio" height="40" />
 <img src="https://skillicons.dev/icons?i=git" height="40" />
 <img src="https://skillicons.dev/icons?i=github" height="40" />
-<img src="https://skillicons.dev/icons?i=claude" height="40" />
 
 
 </div>
