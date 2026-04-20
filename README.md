@@ -21,7 +21,7 @@ Tenho forte interesse em tecnologia, inovação e em transformar problemas compl
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💻 Áreas de Atuação
 
@@ -30,7 +30,7 @@ Tenho forte interesse em tecnologia, inovação e em transformar problemas compl
 - Integração de Sistemas
 - Uso de IA no desenvolvimento
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 👨‍💻 Competências
 
@@ -46,7 +46,7 @@ Tenho forte interesse em tecnologia, inovação e em transformar problemas compl
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Tecnologias
 
@@ -63,7 +63,7 @@ Tenho forte interesse em tecnologia, inovação e em transformar problemas compl
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Ferramentas
 
@@ -76,7 +76,7 @@ Tenho forte interesse em tecnologia, inovação e em transformar problemas compl
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ⚡ Diferenciais
 
